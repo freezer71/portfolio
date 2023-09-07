@@ -1,1 +1,1 @@
-[site](https://freezer71.github.io/portfolio/)
+[publish link](https://freezer71.github.io/portfolio/)
